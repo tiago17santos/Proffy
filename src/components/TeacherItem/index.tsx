@@ -12,7 +12,7 @@ function TeacherItem() {
         />
         <div>
           <strong>Tiago Alberto</strong>
-          <span>Lorem</span>
+          <span>Matemática</span>
         </div>
       </header>
 
