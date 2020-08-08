@@ -7,7 +7,7 @@ function TeacherItem() {
     <article className="teacher-item">
       <header>
         <img
-          src="https://twitter.com/TH_silvva/photo"
+          src="https://avatars0.githubusercontent.com/u/67645178?s=60&u=6bc075bdce107a25705a2df344b62cab245b7579&v=4"
           alt="Tiago Alberto"
         />
         <div>
