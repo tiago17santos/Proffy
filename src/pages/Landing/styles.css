@@ -139,4 +139,8 @@
       grid-area: total;
       justify-self: end;
     }
+    .total-connection {
+      grid-area: total;
+      justify-self: end;
+    }
   }
